@@ -1,0 +1,158 @@
+/** Tags */
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6{
+	margin: 0;
+}
+
+header{
+	position: relative;
+	top: 0;
+	height: auto;
+	width: 100%;
+}
+
+nav{
+	position: fixed;
+	top: 0;
+	height: 50px;
+	width: 100%;
+	z-index: 1;	
+	background: #E6E6E6;
+	border-bottom: 1px solid #FF8000;
+}
+
+nav:after{
+	clear: both;
+	content:"";
+	display: block; 
+}
+
+/** Class */
+.container{
+	max-width: 1920px;
+	width: 100%;
+}
+
+.nav-container{
+	max-width: 1200px;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.nav-container ul {
+	float: right;
+	height: 100px;
+	line-height: 50px;
+	margin: 0;
+}
+
+.nav-container li {
+	list-style: none;
+	float: left;
+	margin: 0 15px;
+}
+
+.nav-container li a{
+	text-decoration: none;
+	color: #FF8000;
+	transition: .5s
+}
+
+.nav-container li a:hover{
+	color: #000000;
+
+}
+
+/* Entrar*/
+
+.nav-container-entrar li{
+	list-style: none;
+	float: left;
+	margin: 0 15px;
+	color: white;
+}
+
+/* ID'd*/
+#logo{
+	width: 50px;
+	height: 50px;
+	margin-top: 25px;
+}
+
+#title{
+	line-height: 50px;
+	color: #FF8000;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+/** Hide on desktop*/
+
+.nav-container .btn-menumobile{
+	display: none;
+}
+
+/** Resolution */
+
+@media screen and (max-width: 576px){
+
+	.nav-container .btn-menumobile{
+		display: block !important;
+	}
+
+	html, body{
+		overflow-x: hidden;
+	}
+
+	nav{
+		height: 4em;
+	}
+
+	#logo{
+		left: 2em;
+		height: 2em;
+		width: 2em;
+		margin-top: 1em;
+	}
+
+	.btn-menumobile{
+		display: block;
+		font-size: 1.75em;
+		color: black;
+		position: absolute;
+		right: 1.5em;
+		top: .75em;
+	}
+
+	.nav-container ul{
+		position: relative;
+		top: 4em;
+		height: 3em;
+		line-height: 3em;
+		display: none;
+	}
+
+	.nav-container ul li{
+		display: block;
+		background-color: white;
+		margin: 0;
+		border-top: 1px solid #CCC;
+	}
+
+	.nav-container ul li a{
+		font-size: 1em;
+	}
+
+	.open{
+		display: block !important ;
+	}
+
+}

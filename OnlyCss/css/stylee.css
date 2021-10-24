@@ -1,0 +1,419 @@
+/* Tag's*/ 
+* {box-sizing: border-box}
+
+body{
+  margin: 0;
+  background: #2E2E2E;
+  font-family: Verdana, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+  margin: 0;
+}
+
+header{
+  position: relative;
+  top: 0;
+  height: auto;
+  width: 100%;
+}
+
+nav{
+  position: fixed;
+  top: 0;
+  height: 55px;
+  width: 100%;
+  z-index: 1;
+  background: #212529;
+  border-bottom: 1px solid #ffc107;
+}
+
+nav:after{
+  clear: both;
+  content: "";
+  display: block;
+}
+
+footer{
+  height: 55px;
+  width: 100%;
+  background: #212529;
+  color: white;
+  text-align: center;
+  padding-top: 15px;
+  margin-top: 15px;
+}
+
+/* Class*/
+
+/* Navbar*/
+.container{
+  max-width: 1920px;
+  width: 100%;
+}
+
+.nav-container{
+  max-width: 1280px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+
+.nav-container ul{
+  float: left;
+  height: 100px;
+  line-height: 50px;
+  margin: 0;
+}
+
+.nav-container li{
+  float: left;
+  margin: 0px 10px;
+  list-style: none;
+}
+
+.nav-container li a{
+  text-decoration: none;
+  color: #ffc107;
+}
+
+.nav-container li a:hover{
+  text-decoration: none;
+  color: #ffc107;
+  background: gray;
+  height: 200px;
+  width: 200px;
+}
+
+.search {
+  float: right;
+  padding: 5px;
+  border: 10px;
+  margin-top: 2px;
+}
+
+.search input{
+  float: left;
+  height: 40px;
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid #ffc107;
+  padding: 0 0 0 15px;
+  margin-right: 10px;
+}
+
+.search button{
+  float: left;
+  width: 75px; 
+  color: #ffc107;
+  background: #212529;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid #ffc107;
+}
+
+.search button:hover{
+  color: #212529;
+  background: #ffc107
+}
+
+#logo{
+  font-size: 20px;
+  line-height: 50px;
+  color: white;
+  float: left;
+  text-decoration: none;
+}
+
+/* Navegation*/
+
+.navegation{
+  max-width: 1920px;
+  width: 100%;
+  margin-top: 70px;
+}
+
+.nav-navegation{
+  max-width: 1150px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #212529;
+  height: 140px;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.nav-navegation a{
+  text-decoration: none;
+  color: #ffc107;
+}
+
+.nav-navegation button{
+  width: 75px; 
+  color: #ffc107;
+  background: #212529;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid #ffc107;
+  margin: 3.5% 0px 0px 93.1%;
+}
+
+.nav-navegation button:hover{
+  color: #212529;
+  background: #ffc107
+}
+
+#clique-aqui{
+  color: white;
+  font-size: 14px;
+  float: left;
+}
+
+#pedidos{
+  color: white;
+  font-size: 14px;
+  float: right;
+  margin: 0px 10px;
+}
+
+#conta{
+  color: white;
+  font-size: 14px;
+  float: right;
+}
+
+/* Content*/
+.content{
+  max-width: 1920px;
+  width: 100%;
+  margin-top: 15px;
+}
+
+.nav-content{
+  max-width: 1150px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background: #212529;
+  height: 430px;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.nav-content section{
+  float: left;
+  width: 890px;
+  height: 390px;
+  background: #2E2E2E;
+  margin-left: 20px;
+  border-radius: 5px;
+  padding: 0px 0px 20px 25px;
+}
+
+/* Posts*/
+.nav-content-division{
+  width: 270px;
+  height: 350px;
+  background: #212529;
+  float: left;
+  margin-right: 15px;
+  margin-top: 25px;
+}
+
+#descricao{
+  color: white;
+  width: 270px;
+  height: 20px;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+#price{
+  width: 270px:
+  height: 10px;
+  margin-top: 15px;
+  font-size: 18px;
+  color: gray;
+}
+
+#price-card{
+  color: gray;
+  width: 270px;
+  height: 10px;
+  margin-top: 5px;
+  font-size: 12px;
+}
+
+/* Filter*/
+.nav-content aside{
+  padding-top: 20px; 
+  float: left;
+  width: 200px;
+  height: 390px;
+  background: #2E2E2E;
+  border-radius: 5px;
+}
+
+.nav-content aside button{
+  margin-top: 10px;
+  margin-left: 40px; 
+  height: 40px;
+  width: 120px;
+  float: left;
+  color: #ffc107;
+  background: #212529;
+  border: 1px solid #ffc107;
+  border-radius: 5px;
+}
+
+.nav-content aside button:hover{
+  color: #212529;
+  background: #ffc107
+}
+
+.dropbtn {
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown a{
+  text-decoration: none;
+  color: #ffc107;
+}
+
+.dropdown-content{
+  display: none;
+  position: relative;
+  top: -21px;
+  left: 115px;
+  width: 150px;
+  background-color: #212529;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;    
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.dropdown-content a{
+  padding: 3px;
+  display: block;
+  text-align: left;
+}
+
+.dropdown:hover .dropdown-content{
+  display: block;
+}
+
+/* Posts*/
+.mySlides1, .mySlides2, .mySlides3 {display: none}
+
+/* Slideshow container */
+.slideshow-container {
+  width: 230px;
+  height: 185px;
+  position: relative;
+  margin: auto;
+  border: 1px solid #212529;
+  align-items: middle;
+  margin-top: 10px;
+
+}
+
+.slideshow-container img{
+  display: block;
+  width: 20vw;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  margin-left: -125px;
+  margin-right: -10px;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: gray;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+
+
+/* Caption text */
+.text {
+  color: #ffc107;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}

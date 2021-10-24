@@ -1,0 +1,464 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"over",
+				"overflow-x\tproperty"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"WIDT",
+				"max-width\tproperty"
+			],
+			[
+				"navbar",
+				"navbar-dark"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"nab",
+				"navbar-collapse"
+			],
+			[
+				"nav",
+				"navBar"
+			],
+			[
+				"colp",
+				"collapsed"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"co",
+				"collapse"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"e",
+				"exampleModalLabel"
+			],
+			[
+				"col",
+				"col-sm-8"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"btn",
+				"btn-lg"
+			],
+			[
+				"drop",
+				"dropdown-item"
+			],
+			[
+				"btn-",
+				"btn-outline-warning"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"bg",
+				"bg-dark"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"form",
+				"form-check-input"
+			],
+			[
+				"for",
+				"form-check"
+			],
+			[
+				"form-check",
+				"form-check-input"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"G-3",
+				"g-3"
+			],
+			[
+				"Fis",
+				"firstName"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"Bot",
+				"Botão"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"t",
+				"tbody\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"menu",
+				"menublue"
+			],
+			[
+				"name",
+				"namecolor"
+			],
+			[
+				"o",
+				"Option"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ca",
+				"Carrinho"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"fo",
+				"font\tTag"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/JavaScript/js/script.js",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/JavaScript/index.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/SpotifyProject/links/index.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Bootstrap-4/js/scripts.js",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Bootstrap-4/css/style.css",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Bootstrap-4/links/index.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Bootstrap-4/index.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Teste/teste.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/Exemplos bootstrap/bootstrap-5.0.0-beta1-examples/offcanvas/index.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/SpotifyProject/css/style.css",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/Exemplos bootstrap/bootstrap-5.0.0-beta1-examples/pricing/index.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/SpotifyProject/js/script.js",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/Exemplos bootstrap/bootstrap-5.0.0-beta1-examples/offcanvas/offcanvas.css",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Project bootstrap/navegação.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Project bootstrap/tooltipEpopover.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Project bootstrap/tabs.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Project bootstrap/alert.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Project bootstrap/modal.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Patron/css/style.css",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Patron/index.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Teste/cadastro.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Teste/style.css",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/MyFirstProject/css/style.css",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/MyFirstProject/links/cadastro.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/MyFirstProject/links/conta.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/MyFirstProject/links/index.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Teste/oficial.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Teste/conta.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Project bootstrap/botoes.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Teste/index.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Teste/css3.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Project bootstrap/index.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Project bootstrap/style.css",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Teste/navbar.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Project bootstrap/glyfhicons.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Teste/jao.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Teste/bootstrap/css/bootstrap.min.css",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Project bootstrap/bootstrap/css/bootstrap.min.css",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Project bootstrap/imagensresponsivas.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Project bootstrap/formulario.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Project bootstrap/tabela.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Project bootstrap/bootstrap/tabela.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/Exemplos bootstrap/bootstrap-5.0.0-beta1-examples/checkout/index.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/Exemplos bootstrap/bootstrap-5.0.0-beta1-examples/checkout/form-validation.css",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/MyFirstProject/links/contato.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/MyFirstProject/links/sobre.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/MyFirstProject/style.css",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Patron/sobre.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Patron/contato.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/Patron/conta.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/MyFirstProject/links/project.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/MyFirstProject/links/teste.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/MyFirstProject/links/style.css",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/MyFirstProject/project.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/index.html",
+		"/C/Users/natha/OneDrive/Documentos/Nathan/Workspace/FrontEnd/SublimeText3/css/estilo.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
