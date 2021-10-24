@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="pt-bt">
+	<!-- Bootstrap V5-->
+	<head>	
+		<title>Minha conta</title>
+		
+		<!-- Required meta tags -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!-- CSS only -->
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+	</head>
+
+	<body>
+
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		  <div class="container-fluid">
+		    <a class="navbar-brand" href="oficial.html">Navbar</a>
+		    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+		      <span class="navbar-toggler-icon"></span>
+		    </button>
+		    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+		      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		        <li class="nav-item">
+		          <a class="nav-link active" aria-current="page" href="oficial.html">Home</a>
+		        </li>
+		        <li class="nav-item">
+		          <a class="nav-link" href="conta.html">Conta</a>
+		        </li>
+		        <li class="nav-item dropdown">
+		          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+		            Dropdown
+		          </a>
+		          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+		            <li><a class="dropdown-item" href="#">Action</a></li>
+		            <li><a class="dropdown-item" href="#">Another action</a></li>
+		            <li><hr class="dropdown-divider"></li>
+		            <li><a class="dropdown-item" href="#">Something else here</a></li>
+		          </ul>
+		        </li>
+		        <li class="nav-item">
+		          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+		        </li>
+		      </ul>
+		      <form class="d-flex">
+		        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+		        <button class="btn btn-outline-success" type="submit">Search</button>
+		      </form>
+		    </div>
+		  </div>
+		</nav>
+
+		<br>
+
+		<div class="container bg-light telaCadastro">
+			<form>
+	            <div class="col-sm-6 offset-sm-3">	          
+			    <div class="row g-3">		        
+		          
+			        <div class="col-sm-6">
+			  	      <input type="text" class="form-control" id="firstName" placeholder="First name">
+			        </div>
+
+			        <div class="col-sm-6">
+			          <input type="text" class="form-control" id="lastName" placeholder="Last name">
+			        </div>
+			         
+			        <div class="col-sm-12">
+	 		          <input type="email" class="form-control" placeholder="E-mail">
+			        </div>
+
+			        <div class="col-sm-12">
+	 		          <input type="password" class="form-control" placeholder="Password">
+			        </div>
+
+			        <div class="col-sm-12">
+	 		          <input type="password" class="form-control" placeholder="Confirm password">
+			        </div>
+
+			        <div class="col-sm-4">
+			          <h6>Birthday</h6>
+	 		          <input type="number" class="form-control" min="1" max="31" placeholder="Day">
+			        </div>
+
+			        <div class="col-sm-4">
+			          <h6 class="birthday">.</h6>
+	 		          <input type="number" class="form-control" min="1" max="12" placeholder="Month">
+			        </div>
+
+			        <div class="col-sm-4">
+			          <h6 class="birthday">.</h6>
+	 		          <input type="number" class="form-control" min="1900" max="2020" placeholder="Year">
+			        </div>
+
+			        <div class="col-sm-4">
+			          <h6>Genre</h6>			          
+	 		          <input type="radio" class="form-check-input" name="Genre" id="male">
+	 		          <label class="form-check-label" for="male">Male</label>
+			        </div>
+
+			        <div class="col-sm-4">
+			          <h6 class="birthday">.</h6>			          
+	 		          <input type="radio" class="form-check-input" name="Genre" id="female">
+	 		          <label class="form-check-label" for="female">Female</label>
+			        </div>
+
+			        <div class="col-sm-4">
+			          <h6 class="birthday">.</h6>
+			          <input type="radio" class="form-check-input" name="Genre" id="other">
+			          <label class="form-check-label" for="other">Other</label>
+			        </div>
+
+			        <div class="col-sm-4">
+	 		          <select class="form-select" arial-label="Default select example">
+	 		          	<option selected="">Country</option>
+	 		          	<option value="1">Brazil</option>
+	 		          </select>
+			        </div>
+
+			        <div class="col-sm-4">
+			          <select class="form-select" arial-label="Default select example">
+	 		          	<option selected="">State</option>
+	 		          	<option value="1">Minas Gerais</option>
+	 		          </select>
+			        </div>
+
+			        <div class="col-sm-4">
+			          <select class="form-select" arial-label="Default select example">
+	 		          	<option selected="">City</option>
+	 		          	<option value="1">Belo Horizonte</option>
+	 		          </select>
+			        </div>
+
+			        <div class="col-sm-12">
+			    		<input class="form-check-input" type="checkbox" name="" id="checkbox">
+			        	<label class="form-check-label" for="checkbox">accept all contract terms</label>
+			        </div>
+
+			        <div class="col-sm-12">
+			    		<input class="form-check-input" type="checkbox" name="" id="promotional">
+			        	<label class="form-check-label" for="promotional">I agree to receive promotional emails</label>
+			        </div>
+
+			        <hr>
+
+			        <div class="d-grid col-sm-12">
+			        	<button type="button" class="btn btn-success">Register</button>
+			        </div>
+
+	      	    </div>
+	      		</div>
+	  		</form>
+	    </div>
+
+	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
+	</body>
+
+</html>
